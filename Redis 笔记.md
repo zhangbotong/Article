@@ -138,7 +138,7 @@ typedef struct intset {
 
 ## 1. AOF
 
-![AOF 过程](./assets/Redis_AOF 过程.png)
+![AOF过程](./assets/Redis_AOF 过程.png)
 
 先执行，后写日志：
 
