@@ -10,7 +10,7 @@ Redis 键值对结构：
 
 Redis object 结构：
 
-![Redis object结构图](./assets/Redis_Redis object结构图.png)
+![Redis object结构图](./assets/Redis_Redis_object结构图.png)
 
 - type，标识该对象是什么类型的对象（String 对象、 List 对象、Hash 对象、Set 对象和 Zset 对象）；
 - encoding，标识该对象使用了哪种底层的数据结构；
@@ -55,7 +55,7 @@ typedef struct list {
 
 ## 3. 哈希表
 
-![Hash 结构](./assets/Redis_Hash 结构.png)
+![Hash 结构](./assets/Redis_Hash结构.png)
 
 Key word:**渐进式 hash**
 
@@ -119,7 +119,7 @@ typedef struct intset {
 
 ## 6. 跳表
 
-![skiplist 结构](./assets/Redis_skiplist 结构.png)
+![skiplist 结构](./assets/Redis_skiplist结构.png)
 
 
 
