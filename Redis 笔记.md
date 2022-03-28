@@ -2,7 +2,7 @@
 
 # 数据结构
 
-![Redis 数据结构](./assets/Redis_Redis 数据结构.png)
+![Redis 数据结构](./assets/Redis_Redis数据结构.png)
 
 Redis 键值对结构：
 
